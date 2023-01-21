@@ -42,6 +42,220 @@
   <br/>
   <br/>
 
+
+  <!-- Skills -->
+  <h3>
+    <img src=./assets/gifs/code.gif alt=Code width=35>
+    <b> Linguagens utilizadas</b>
+  </h3>
+  <img src=./assets/gifs/blinking_line.gif alt="Bright line" />
+  </br>
+
+  <h4><li>Desenvolvimento front-end:</li></h4>
+  <a title=HTML href=#>
+    <img src=./assets/thumbnails/stacks/html.svg alt=HTML width=50 />
+  </a>
+  <a title=CSS href=#>
+    <img src=./assets/thumbnails/stacks/css.svg alt=CSS width=50 />
+  </a>
+  <a title=Javascript href=#>
+    <img src=./assets/thumbnails/stacks/javascript.svg alt=Javascript width=50 />
+  </a>
+  <a title=Typescript href=#>
+    <img src=./assets/thumbnails/stacks/typescript.svg alt=Typescript width=50 />
+  </a>
+  <a title=React href=#>
+    <img src=./assets/thumbnails/stacks/react.svg alt=React width=50 />
+  <a title=Redux href=#>
+    <img src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg alt=Redux width=50 />
+  </a>
+  <a title=Bootstrap href=#>
+    <img src=./assets/thumbnails/stacks/bootstrap.svg alt=Bootstrap width=50 />
+  </a>
+  <a title="Tailwind CSS" href=#>
+    <img src=./assets/thumbnails/stacks/tailwind_css.svg alt="Tailwind CSS" width=50 />
+  </a>
+  <a title="Styled Components" href=#>
+    <img src=./assets/thumbnails/stacks/styled_components.png alt="Styled Components" width=50 />
+  </a>
+  <br/>
+
+  <h4><li>Desenvolvimento back-end:</li></h4>
+  <a title=Node href=#>
+    <img src=./assets/thumbnails/stacks/node.svg alt=Node width=50 />
+  </a>
+  <a title=TS-Node href=#>
+    <img src=./assets/thumbnails/stacks/ts-node.png alt=TS-Node width=50 />
+  <a title=Express href=#>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=./assets/thumbnails/stacks/express_dark.svg width=50>
+      <img src=./assets/thumbnails/stacks/express.svg alt=Express width=50 />
+    </picture>
+  </a>
+  <a title=Sequelize href=#>
+    <img src=./assets/thumbnails/stacks/sequelize.svg alt=Sequelize width=50 />
+  </a>
+  <a title=Mongoose href=#>
+    <img src=./assets/thumbnails/stacks/mongoose.png alt=Mongoose width=50 />
+  </a>
+  <a title=JWT href=#>
+    <img src=./assets/thumbnails/stacks/jwt.png alt=JWT width=50 />
+  </a>
+  <a title=C# href=#>
+    <img src=./assets/thumbnails/stacks/csharp.svg alt=C# width=50 />
+  </a>
+  <a title=".NET Core" href=#>
+    <img src=./assets/thumbnails/stacks/.net.png alt=.NET width=50 />
+  </a>
+  <br/>
+
+  <h4><li>Banco de dados:</li></h4>
+  <a title=MySQL href=#>
+    <img src=./assets/thumbnails/stacks/mysql.svg alt=MySQL width=50 />
+  </a>
+  <a title=PostgreSQL href=#>
+    <img src=./assets/thumbnails/stacks/postgresql.svg alt=PostgreSQL width=50 />
+  </a>
+  <a title="Microsoft SQL Server" href=#>
+    <img src=./assets/thumbnails/stacks/sql_server.png alt="Microsoft SQL Server" width=50 />
+  </a>
+  <a title=SQLite href=#>
+    <img src=./assets/thumbnails/stacks/sqlite.svg alt=SQLite width=50 />
+  </a>
+  <a title=MongoDB href=#>
+    <img src=./assets/thumbnails/stacks/mongodb.svg alt=MongoDB width=50 />
+  </a>
+  <a title=Redis href=#>
+    <img src=./assets/thumbnails/stacks/redis.svg alt=Redis width=50 />
+  </a>
+  <br/>
+
+  <h4><li>Garantia de qualidade:</li></h4>
+  <a title=Jest href=#>
+  <img src=./assets/thumbnails/stacks/jest.svg alt=Jest width=50 />
+  <a title=RTL href=#>
+  <img src=./assets/thumbnails/stacks/rtl.png alt=RTL width=50 />
+  <a title=Mocha href=#>
+  <img src=./assets/thumbnails/stacks/mocha.svg alt=Mocha width=50 />
+  <a title=Chai href=#>
+  <img src=./assets/thumbnails/stacks/chai.png alt=Chai width=50 />
+  <a title=Sinon href=#>
+    <img src=./assets/thumbnails/stacks/sinon.png alt=Sinon width=50 />
+  </a>
+  <a title=Pytest href=#>
+    <img src=./assets/thumbnails/stacks/pytest.svg alt=Pytest width=50 />
+  </a>
+  <a title=XUnit href=#>
+    <img src=./assets/thumbnails/stacks/xunit.png alt=XUnit width=50 />
+  </a>
+  <a title="Fluent Assertions" href=#>
+    <img src=./assets/thumbnails/stacks/fluent_assertions.png alt="Fluent Assertions" width=50 />
+  </a>
+  <a title=Moq href=#>
+    <img src=./assets/thumbnails/stacks/moq.png alt=Moq width=50 />
+  </a>
+  <a title=ESLint href=#>
+    <img src=./assets/thumbnails/stacks/eslint.svg alt=ESLint width=50 />
+  </a>
+  <a title=Stylelint href=#>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=./assets/thumbnails/stacks/stylelint_dark.svg width=50>
+      <img src=./assets/thumbnails/stacks/stylelint.svg alt=Stylelint width=50 />
+    </picture>
+  </a>
+  <br/>
+  
+  <h4><li>Integração/Entrega contínua:</li></h4>
+  <a title=Docker href=#>
+    <img src=./assets/thumbnails/stacks/docker.svg alt=Docker width=50 />
+  </a>
+  <a title="Docker Compose" href=#>
+    <img src=./assets/thumbnails/stacks/docker-compose.png alt="Docker Compose" width=50 />
+  </a>
+  <a title=Git href=#>
+    <img src=./assets/thumbnails/stacks/git.svg alt=Git width=50 />
+  </a>
+  <a title=GitHub href=#>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=./assets/thumbnails/stacks/github_dark.svg width=50>
+      <img src=./assets/thumbnails/stacks/github.svg alt=GitHub width=50 />
+    </picture>
+  </a>
+  <a title="GitHub Actions" href=#>
+    <img src=./assets/thumbnails/stacks/github_actions.png alt="GitHub Actions" width=50 />
+  </a>
+  <a title=Vercel href=#>
+    <img src=./assets/thumbnails/stacks/vercel.png alt=Vercel width=50 />
+  </a>
+  <a title=Heroku href=#>
+    <img src=./assets/thumbnails/stacks/heroku.svg alt=Heroku width=50 />
+  </a>
+  <a title=Railway href=#>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=./assets/thumbnails/stacks/railway_dark.svg width=50>
+      <img src=./assets/thumbnails/stacks/railway.svg alt=Railway width=50 />
+    </picture>
+  </a>
+  <a title="Digital Ocean" href=#>
+    <img src=./assets/thumbnails/stacks/digital_ocean.svg alt="Digital Ocean" width=50 />
+  </a>
+  <br/>
+  
+  <h4><li>Nuvem:</li></h4>
+  <a title=AWS href=#>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=./assets/thumbnails/stacks/aws_dark.svg width=50>
+      <img src=./assets/thumbnails/stacks/aws.svg alt=AWS width=50 />
+    </picture>
+  </a>
+  <a title=Azure href=#>
+    <img src=./assets/thumbnails/stacks/azure.svg alt=Azure width=50 />
+  </a>
+  <br/>
+  
+  <h4><li>Linguagens de script:</li></h4>
+  <a title=Python href=#>
+    <img src=./assets/thumbnails/stacks/python.svg alt=Python width=50 />
+  </a>
+  <a title=Bash href=#>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=./assets/thumbnails/stacks/bash_dark.svg width=50 />
+      <img src=./assets/thumbnails/stacks/bash.svg alt=Bash width=50 />
+    </picture>
+  </a>
+  <a title=VBA href=#>
+    <img src=./assets/thumbnails/stacks/vba.png alt=VBA width=50 />
+  </a>
+  <br/>
+
+  <h4><li>Raspagem de dados:</li></h4>
+  <a title=Requests href=#>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=./assets/thumbnails/stacks/requests_dark.png width=50 />
+      <img src=./assets/thumbnails/stacks/requests.png alt=Requests width=50 />
+    </picture>
+  </a>
+  <a title=Selenium href=#>
+    <img src=./assets/thumbnails/stacks/selenium.svg alt=Selenium width=50 />
+  </a>
+  <a title="Beautiful Soup" href=#>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=./assets/thumbnails/stacks/beautiful_soup_dark.png width=50 />
+      <img src=./assets/thumbnails/stacks/beautiful_soup.png alt="Beautiful Soup" width=50 />
+    </picture>
+  </a>
+  
+  <h4><li>Linguagens estruturais:</li></h4>
+  <a title=C href=#>
+    <img src=./assets/thumbnails/stacks/c.svg alt=C width=50 />
+  </a>
+  <a title=C++ href=#>
+    <img src=./assets/thumbnails/stacks/c++.svg alt=C++ width=50 />
+  </a>
+  </br>
+  </br>
+  </br>
+
 </details>
 
 <!-- English -->
