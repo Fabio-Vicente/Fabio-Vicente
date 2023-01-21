@@ -256,6 +256,34 @@
   </br>
   </br>
 
+
+<!-- Stats -->
+  <h3>
+    <img src=./assets/gifs/stats.gif alt=Stats width=40>
+    Estatísticas
+  </h3>
+  <img src=./assets/gifs/blinking_line.gif alt="Blinking line" />
+  </br>
+  </br>
+  
+  [![Estatísticas do GitHub de Fábio Vicente](https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  [![Estatísticas do GitHub de Fábio Vicente](https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Semana passada no Wakatime](https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&theme=transparent&locale=pt-br)](https://wakatime.com/@Vicente#gh-light-mode-only)
+  [![Semana passada no Wakatime](https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=tokyonight&locale=pt-br)](https://wakatime.com/@Vicente#gh-dark-mode-only)
+  <div align=center>
+
+  [![Linguagens mais utilizadas](https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  [![Linguagens mais utilizadas](https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+    
+  </div>
+  <div align=center>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente&locale=pt-br#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente&theme=tokyonight&locale=pt-br#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+
+  </div>
+  </br>
+
 </details>
 
 <!-- English -->
@@ -508,6 +536,34 @@
   </a>
   </br>
   </br>
+  </br>
+
+
+<!-- Stats -->
+  <h3>
+    <img src=./assets/gifs/stats.gif alt=Stats width=40>
+    Coding Stats
+  </h3>
+  <img src=./assets/gifs/blinking_line.gif alt="Blinking line" />
+  </br>
+  </br>
+  
+  [![Fábio Vicente's GitHub stats](https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  [![Fábio Vicente's GitHub stats](https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+  [![Wakatime last 7 days](https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&theme=transparent)](https://wakatime.com/@Vicente#gh-light-mode-only)
+  [![Wakatime last 7 days](https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=tokyonight)](https://wakatime.com/@Vicente#gh-dark-mode-only)
+  <div align=center>
+
+  [![Most used languages](https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+  [![Most used languages](https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+    
+  </div>
+  <div align=center>
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente&theme=tokyonight#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
+
+  </div>
   </br>
 
 </details>
