@@ -278,12 +278,12 @@
       <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&langs_count=5&theme=transparent&locale=pt-br width=49% />
     </picture>
   </a>
-  <div align=center>
-
-  [![Linguagens mais utilizadas](https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  [![Linguagens mais utilizadas](https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-    
-  </div>
+  <a href=https://github.com/anuraghazra/github-readme-stats>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight&locale=pt-br width=30% align=center/>
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent&locale=pt-br width=30% align=center/>
+    </picture>
+  </a>
   <div align=center>
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente&locale=pt-br#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
@@ -568,14 +568,12 @@
       <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&langs_count=5&theme=transparent width=49% />
     </picture>
   </a>
-  <div align=center>
-
-  [![Most used languages](https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  [![Most used languages](https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-    
-  </div>
-  <div align=center>
-
+  <a href=https://github.com/anuraghazra/github-readme-stats>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight width=30% align=center/>
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent width=30% align=center/>
+    </picture>
+  </a>
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente&theme=tokyonight#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
 
