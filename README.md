@@ -286,6 +286,8 @@
       </picture>
     </a>
   </div>
+  
+  ##### 💁🏽 Não consegue ver uma ou mais estatísticas? Tente recarregar a página. Isso funciona na maioria das vezes.
   </br>
 
 </details>
@@ -571,6 +573,9 @@
         <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent width=30% />
       </picture>
     </a>
+  </div>
+
+  ##### 💁🏽 Cannot see one or more stats? Try to reload the page. It's works at almost all the times.
   </br>
 
 </details>
