@@ -7,7 +7,7 @@
 <!-- Portuguese -->
 <details>
   <summary>
-    <h6>Português<h6>
+    <h5>Português<h5>
   </summary>
 
 
@@ -266,12 +266,10 @@
   </br>
   </br>
   
-  <a href=https://github.com/anuraghazra/github-readme-stats>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight&locale=pt-br width=49% />
-      <img src=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent&locale=pt-br width=49% />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight&locale=pt-br width=49% />
+    <img src=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent&locale=pt-br width=49% />
+  </picture>
   <a href=https://wakatime.com/@Vicente>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=7%20dias%20atrás%20no%20Wakatime&line_height=400&theme=tokyonight&locale=pt-br width=49% />
@@ -279,12 +277,10 @@
     </picture>
   </a>
   <div align=center>
-    <a href=https://github.com/anuraghazra/github-readme-stats>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20linguagens%20mais%20utilizadas&theme=tokyonight&locale=pt-br width=30% />
-        <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20linguagens%20mais%20utilizadas&theme=transparent&locale=pt-br width=30% />
-      </picture>
-    </a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20linguagens%20mais%20utilizadas&theme=tokyonight&locale=pt-br width=30% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20linguagens%20mais%20utilizadas&theme=transparent&locale=pt-br width=30% />
+    </picture>
   </div>
   
   ##### 💁🏽 Não consegue ver uma ou mais estatísticas? Tente recarregar a página. Isso funciona na maioria das vezes.
@@ -302,13 +298,26 @@
   [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fab10_vicente)
   [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiolvsantos93@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991366088)
+  </br>
+  </br>
+  </br>
+
+
+  <!-- Credits -->
+  ---
+  ###### Inspirado em: https://github.com/0xabdulkhalid
+  ###### Readme feito usando:
+  ######    - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
+  ######    - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+  ######    - [Shields IO](https://shields.io/)
 
 </details>
+
 
 <!-- English -->
 <details open>
   <summary>
-    <h6>English</h6>
+    <h5>English</h5>
   </summary>
 
 
@@ -567,12 +576,10 @@
   </br>
   </br>
   
-  <a href=https://github.com/anuraghazra/github-readme-stats>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight width=49% />
-      <img src=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent width=49% />
-    </picture>
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight width=49% />
+    <img src=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent width=49% />
+  </picture>
   <a href=https://wakatime.com/@Vicente>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=tokyonight width=49% />
@@ -580,12 +587,10 @@
     </picture>
   </a>
   <div align=center>
-    <a href=https://github.com/anuraghazra/github-readme-stats>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight width=30% />
-        <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent width=30% />
-      </picture>
-    </a>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight width=30% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent width=30% />
+    </picture>
   </div>
 
   ##### 💁🏽 Cannot see one or more stats? Try to reload the page. It's works at almost all the times.
@@ -597,11 +602,25 @@
     <img src=https://media.tenor.com/ExQxWI9uIQoAAAAi/iphone-iphone-emoji.gif alt=Contact width=40>
     Contact me
   </h3>
-  <hr/>
+  <img src=./assets/gifs/blinking_line.gif alt="Blinking line" />
+  </br>
+  </br>
   
   [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-vicente/)
   [![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fab10_vicente)
   [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiolvsantos93@gmail.com)
   [![WhatsApp](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991366088)
+  </br>
+  </br>
+  </br>
+
+  
+  <!-- Credits -->
+  ---
+  ###### Get inspired by: https://github.com/0xabdulkhalid
+  ###### Readme made using:
+  ######    - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
+  ######    - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+  ######    - [Shields IO](https://shields.io/)
 
 </details>
