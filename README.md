@@ -266,10 +266,18 @@
   </br>
   </br>
   
-  [![Estatísticas do GitHub de Fábio Vicente](https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  [![Estatísticas do GitHub de Fábio Vicente](https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  [![Semana passada no Wakatime](https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&theme=transparent&locale=pt-br)](https://wakatime.com/@Vicente#gh-light-mode-only)
-  [![Semana passada no Wakatime](https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=tokyonight&locale=pt-br)](https://wakatime.com/@Vicente#gh-dark-mode-only)
+  <a href=https://github.com/anuraghazra/github-readme-stats>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight&locale=pt-br width=49% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent&locale=pt-br width=49% />
+    </picture>
+  </a>
+  <a href=https://wakatime.com/@Vicente>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=tokyonight&locale=pt-br width=49% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&langs_count=5&theme=transparent&locale=pt-br width=49% />
+    </picture>
+  </a>
   <div align=center>
 
   [![Linguagens mais utilizadas](https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
@@ -548,10 +556,18 @@
   </br>
   </br>
   
-  [![Fábio Vicente's GitHub stats](https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-  [![Fábio Vicente's GitHub stats](https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-  [![Wakatime last 7 days](https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&theme=transparent)](https://wakatime.com/@Vicente#gh-light-mode-only)
-  [![Wakatime last 7 days](https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=tokyonight)](https://wakatime.com/@Vicente#gh-dark-mode-only)
+  <a href=https://github.com/anuraghazra/github-readme-stats>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight width=49% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent width=49% />
+    </picture>
+  </a>
+  <a href=https://wakatime.com/@Vicente>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=tokyonight width=49% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&langs_count=5&theme=transparent width=49% />
+    </picture>
+  </a>
   <div align=center>
 
   [![Most used languages](https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
