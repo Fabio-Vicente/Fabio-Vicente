@@ -274,15 +274,15 @@
   </a>
   <a href=https://wakatime.com/@Vicente>
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=tokyonight&locale=pt-br width=49% />
-      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&langs_count=5&theme=transparent&locale=pt-br width=49% />
+      <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=7%20dias%20atrás%20no%20Wakatime&line_height=400&theme=tokyonight&locale=pt-br width=49% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=7%20dias%20atrás%20no%20Wakatime&langs_count=5&theme=transparent&locale=pt-br width=49% />
     </picture>
   </a>
   <div align=center>
     <a href=https://github.com/anuraghazra/github-readme-stats>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight&locale=pt-br width=30% />
-        <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent&locale=pt-br width=30% />
+        <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20linguagens%20mais%20utilizadas&theme=tokyonight&locale=pt-br width=30% />
+        <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20linguagens%20mais%20utilizadas&theme=transparent&locale=pt-br width=30% />
       </picture>
     </a>
   </div>
