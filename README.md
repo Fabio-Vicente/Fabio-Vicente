@@ -286,12 +286,6 @@
       </picture>
     </a>
   </div>
-  <div align=center>
-
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente&locale=pt-br#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente&theme=tokyonight&locale=pt-br#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-
-  </div>
   </br>
 
 </details>
@@ -577,11 +571,6 @@
         <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent width=30% />
       </picture>
     </a>
-  </div>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente#gh-light-mode-only)](https://git.io/streak-stats#gh-light-mode-only)
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Fabio-Vicente&theme=tokyonight#gh-dark-mode-only)](https://git.io/streak-stats#gh-dark-mode-only)
-
-  </div>
   </br>
 
 </details>
