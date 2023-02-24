@@ -282,6 +282,13 @@
       <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20linguagens%20mais%20utilizadas&theme=transparent&locale=pt-br alt="Estatísticas das 5 linguagens mais usadas" width=30% />
     </picture>
   </div>
+  <div align=center>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=https://github.com/Fabio-Vicente/Fabio-Vicente/blob/snake_commits/github-contribution-grid-snake-dark.svg />
+      <img src=https://github.com/Fabio-Vicente/Fabio-Vicente/blob/snake_commits/github-contribution-grid-snake.svg alt="1 ano de contribuições" />
+    </picture>
+    <h6>Contribuições em 1 ano</h6>
+  </div>
   
   ##### 💁🏽 Não consegue ver uma ou mais estatísticas? Tente recarregar a página. Isso funciona na maioria das vezes.
   </br>
@@ -591,6 +598,13 @@
       <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight width=30% />
       <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent alt="5+ used languages stats" width=30% />
     </picture>
+  </div>
+  <div align=center>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset=https://github.com/Fabio-Vicente/Fabio-Vicente/blob/snake_commits/github-contribution-grid-snake-dark.svg />
+      <img src=https://github.com/Fabio-Vicente/Fabio-Vicente/blob/snake_commits/github-contribution-grid-snake.svg alt="Past year contributions" />
+    </picture>
+    <h6>1 year contributions</h6>
   </div>
 
   ##### 💁🏽 Cannot see one or more stats? Try reload page. It's works almost all the times.
