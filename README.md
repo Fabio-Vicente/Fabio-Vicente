@@ -268,18 +268,18 @@
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight&locale=pt-br width=49% />
-    <img src=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent&locale=pt-br width=49% />
+    <img src=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent&locale=pt-br alt="Estatísticas do GitHub" width=49% />
   </picture>
   <a href=https://wakatime.com/@Vicente>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=7%20dias%20atrás%20no%20Wakatime&line_height=400&theme=tokyonight&locale=pt-br width=49% />
-      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=7%20dias%20atrás%20no%20Wakatime&langs_count=5&theme=transparent&locale=pt-br width=49% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=7%20dias%20atrás%20no%20Wakatime&langs_count=5&theme=transparent&locale=pt-br alt="Estatísticas do Wakatime" width=49% />
     </picture>
   </a>
   <div align=center>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20linguagens%20mais%20utilizadas&theme=tokyonight&locale=pt-br width=30% />
-      <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20linguagens%20mais%20utilizadas&theme=transparent&locale=pt-br width=30% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20linguagens%20mais%20utilizadas&theme=transparent&locale=pt-br alt="Estatísticas das 5 linguagens mais usadas" width=30% />
     </picture>
   </div>
   
@@ -578,18 +578,18 @@
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=tokyonight width=49% />
-    <img src=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent width=49% />
+    <img src=https://readme-stats-fabio-vicente.vercel.app/api?username=Fabio-Vicente&show_icons=true&include_all_commits=true&count_private=true&hide=stars&line_height=24&theme=transparent alt="GitHub stats"width=49% />
   </picture>
   <a href=https://wakatime.com/@Vicente>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=tokyonight width=49% />
-      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&langs_count=5&theme=transparent width=49% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&langs_count=5&theme=transparent alt="Wakatime stats"width=49% />
     </picture>
   </a>
   <div align=center>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=tokyonight width=30% />
-      <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent width=30% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent alt="5+ used languages stats" width=30% />
     </picture>
   </div>
 
