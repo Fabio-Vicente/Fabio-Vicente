@@ -273,7 +273,7 @@
   <a href=https://wakatime.com/@Vicente>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=7%20dias%20atrás%20no%20Wakatime&line_height=400&theme=tokyonight&locale=pt-br width=49% />
-      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=7%20dias%20atrás%20no%20Wakatime&langs_count=5&theme=transparent&locale=pt-br alt="Estatísticas do Wakatime" width=49% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=7%20dias%20atrás%20no%20Wakatime&line_height=400&theme=transparent&locale=pt-br alt="Estatísticas do Wakatime" width=49% />
     </picture>
   </a>
   <div align=center>
@@ -583,7 +583,7 @@
   <a href=https://wakatime.com/@Vicente>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=tokyonight width=49% />
-      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&langs_count=5&theme=transparent alt="Wakatime stats"width=49% />
+      <img src=https://readme-stats-fabio-vicente.vercel.app/api/wakatime?username=vicente&layout=compact&custom_title=Wakatime%20Last%207%20Days&line_height=400&theme=transparent alt="Wakatime stats"width=49% />
     </picture>
   </a>
   <div align=center>
