@@ -14,6 +14,6 @@ jobs:
         uses: Platane/snk/svg-only@v2
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs:
+          outputs: |
             assets/github-contribution-grid-snake.svg
             assets/github-contribution-grid-snake-dark.svg?palette=github-dark
