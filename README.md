@@ -345,7 +345,7 @@
     <li>
       <a href=https://www.credly.com/badges/cd90c35c-e41f-41de-ad7c-9822f943be56/public_url>☁️ AWS Cloud Practitioner Certified;</a>
     </li>
-    <li>🔟 10+ years developing codes and scripts;</li>
+    <li>🔟 10+ years developing scripts and codes;</li>
     <li>⚗️ Learning some cool stuff about DevOps;</li>
     <li>🟣 Jiu-jitsu purple belt.</li>
   </ul>
@@ -593,7 +593,7 @@
     </picture>
   </div>
 
-  ##### 💁🏽 Cannot see one or more stats? Try to reload the page. It's works at almost all the times.
+  ##### 💁🏽 Cannot see one or more stats? Try reload page. It's works almost all the times.
   </br>
 
 
