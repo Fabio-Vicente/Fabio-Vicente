@@ -5,7 +5,7 @@ on:
     - cron: "0 */12 * * *" 
   workflow_dispatch:
 jobs:
-  generate:
+  Generate:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
