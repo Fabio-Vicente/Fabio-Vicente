@@ -11,7 +11,7 @@ jobs:
       contents: write
     steps:
       - name: Coding Habits
-        uses: lowlighter/metrics@latest
+        uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.PAT }}
           user: Fabio-Vicente
