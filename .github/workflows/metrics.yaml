@@ -56,6 +56,6 @@ jobs:
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: metrics
-          build_dir: metrics_renders
+          build_dir: /metrics_renders
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
