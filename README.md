@@ -303,6 +303,29 @@
   </br>
   </br>
 
+  <details>
+    <summary>
+      <strong>Fundamentos da Web</strong>
+     </summary>
+    <br />
+    <table align=center>
+      <tbody align=center>
+        <tr>
+          <td>
+            <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=tokyonight&locale=pt-br />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=transparent&locale=pt-br alt="Projeto Lessons Learned" />
+              </picture>
+              <h6>Meu 1º project web 🙃</h6>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+  </br>
+
 
   <!-- Contact -->
   <h3>
@@ -629,7 +652,29 @@
   <img src=./assets/gifs/blinking_line.gif alt="Blinking line" />
   </br>
   </br>
-
+  
+  <details>
+    <summary>
+      <strong>Web Fundamentals</strong>
+     </summary>
+    <br />
+    <table align=center>
+      <tbody align=center>
+        <tr>
+          <td>
+            <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=tokyonight />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=transparent alt="Lessons Learned Project" />
+              </picture>
+              <h6>My 1º web project 🙃</h6>
+            </a>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </details>
+  </br>
 
   <!-- Contact -->
   <h3>
