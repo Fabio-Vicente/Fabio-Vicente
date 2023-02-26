@@ -294,6 +294,16 @@
   </br>
 
 
+  <!-- Projects -->
+  <h3>
+    <img src=./assets/gifs/projects.gif alt=Projetos width=40>
+    Projetos
+  </h3>
+  <img src=./assets/gifs/blinking_line.gif alt="Blinking line" />
+  </br>
+  </br>
+
+
   <!-- Contact -->
   <h3>
     <img src=https://media.tenor.com/ExQxWI9uIQoAAAAi/iphone-iphone-emoji.gif alt=Contact width=40>
@@ -608,6 +618,16 @@
   </div>
 
   ##### 💁🏽 Cannot see one or more stats? Try reload page. It's works almost all the times.
+  </br>
+
+
+  <!-- Projects -->
+  <h3>
+    <img src=./assets/gifs/projects.gif alt=Projects width=40>
+    Projects
+  </h3>
+  <img src=./assets/gifs/blinking_line.gif alt="Blinking line" />
+  </br>
   </br>
 
 
