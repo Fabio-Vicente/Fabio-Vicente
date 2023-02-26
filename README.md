@@ -317,7 +317,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=tokyonight&locale=pt-br />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=transparent&locale=pt-br alt="Projeto Lessons Learned" />
               </picture>
-              <h6>Meu 1º project web 🙃</h6>
+              <h6>Meu 1º projeto web 🙃</h6>
             </a>
           </td>
         </tr>
