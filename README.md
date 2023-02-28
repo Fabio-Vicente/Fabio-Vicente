@@ -332,6 +332,17 @@
             </a>
           </td>
         </tr>
+        <tr>
+          <td>
+            <a href=https://github.com/Fabio-Vicente/Pixels-Art>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=tokyonight&locale=pt-br />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=transparent&locale=pt-br alt="Projeto Pixels Art" />
+              </picture>
+              <h6>Vamos fazer desenhos com pixels?</h6>
+            </a>
+          </td>
+        </tr>
       </tbody>
     </table>
   </details>
@@ -692,6 +703,17 @@
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=transparent alt="Playground Functions Project" />
               </picture>
               <h6>Firsts lines of code in Javascript 🚀</h6>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href=https://github.com/Fabio-Vicente/Pixels-Art>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=tokyonight />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=transparent alt="Pixels Art Project" />
+              </picture>
+              <h6>Let's make dranings with pixels?</h6>
             </a>
           </td>
         </tr>
