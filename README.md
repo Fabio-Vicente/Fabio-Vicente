@@ -322,6 +322,15 @@
               <h6>Meu 1º projeto web 🙃</h6>
             </a>
           </td>
+          <td>
+            <a href=https://github.com/Fabio-Vicente/Playground-Functions>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=tokyonight&locale=pt-br />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=transparent&locale=pt-br alt="Projeto Playground Functions" />
+              </picture>
+              <h6>Primeiras linhas de código em Javascript 🚀</h6>
+            </a>
+          </td>
         </tr>
       </tbody>
     </table>
@@ -672,6 +681,15 @@
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=transparent alt="Lessons Learned Project" />
               </picture>
               <h6>My 1º web project 🙃</h6>
+            </a>
+          </td>
+          <td>
+            <a href=https://github.com/Fabio-Vicente/Playground-Functions>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=tokyonight />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=transparent alt="Playground Functions Project" />
+              </picture>
+              <h6>Firsts lines of code in Javascript 🚀</h6>
             </a>
           </td>
         </tr>
