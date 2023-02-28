@@ -632,6 +632,8 @@
       <img src=https://readme-stats-fabio-vicente.vercel.app/api/top-langs/?username=Fabio-Vicente&custom_title=5%2B%20most%20used%20languages&theme=transparent alt="5+ used languages stats" width=30% />
     </picture>
   </div>
+  <img src=https://github.com/Fabio-Vicente/Fabio-Vicente/blob/metrics/coding-habits.svg alt="Code habits" width=49% />
+  <img src=https://github.com/Fabio-Vicente/Fabio-Vicente/blob/metrics/achievements.svg alt="Achievements" width=49% />
   <div align=center>
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset=https://github.com/Fabio-Vicente/Fabio-Vicente/blob/snake_commits/github-contribution-grid-snake-dark.svg />
