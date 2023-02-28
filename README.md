@@ -361,6 +361,8 @@
   ######    - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
   ######    - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
   ######    - [Shields IO](https://shields.io/)
+  ######    - [snk](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+  ######    - [Metrics](https://metrics.lecoq.io/)
 
 </details>
 
@@ -723,5 +725,7 @@
   ######    - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg)
   ######    - [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
   ######    - [Shields IO](https://shields.io/)
+  ######    - [snk](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+  ######    - [Metrics](https://metrics.lecoq.io/)
 
 </details>
