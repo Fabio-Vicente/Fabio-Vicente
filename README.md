@@ -713,7 +713,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=tokyonight />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=transparent alt="Pixels Art Project" />
               </picture>
-              <h6>Let's make dranings with pixels?</h6>
+              <h6>Let's make drawings with pixels?</h6>
             </a>
           </td>
         </tr>
