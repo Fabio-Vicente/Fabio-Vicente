@@ -323,6 +323,17 @@
             </a>
           </td>
           <td>
+            <a href=https://github.com/Fabio-Vicente/To-Do-List>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=to-do-list&theme=tokyonight&locale=pt-br />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=to-do-list&theme=transparent&locale=pt-br alt="Projeto To Do Lista" />
+              </picture>
+              <h6>Uma lista de tarefas fácil de usar</h6>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
             <a href=https://github.com/Fabio-Vicente/Playground-Functions>
               <picture>
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=tokyonight&locale=pt-br />
@@ -331,8 +342,6 @@
               <h6>Primeiras linhas de código em Javascript 🚀</h6>
             </a>
           </td>
-        </tr>
-        <tr>
           <td>
            <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
               <picture>
@@ -697,6 +706,17 @@
             </a>
           </td>
           <td>
+            <a href=https://github.com/Fabio-Vicente/To-Do-List>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=to-do-list&theme=tokyonight />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=to-do-list&theme=transparent alt="To Do List Project" />
+              </picture>
+              <h6>An intuitive to do list</h6>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
             <a href=https://github.com/Fabio-Vicente/Playground-Functions>
               <picture>
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=tokyonight />
@@ -705,8 +725,6 @@
               <h6>Firsts lines of code in Javascript 🚀</h6>
             </a>
           </td>
-        </tr>
-        <tr>
           <td>
             <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
               <picture>
