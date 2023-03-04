@@ -314,12 +314,12 @@
       <tbody align=center>
         <tr>
           <td>
-            <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
+            <a href=https://github.com/Fabio-Vicente/Pixels-Art>
               <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=tokyonight&locale=pt-br />
-                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=transparent&locale=pt-br alt="Projeto Lessons Learned" />
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=tokyonight&locale=pt-br />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=transparent&locale=pt-br alt="Projeto Pixels Art" />
               </picture>
-              <h6>Meu 1º projeto web 🙃</h6>
+              <h6>Vamos fazer desenhos com pixels?</h6>
             </a>
           </td>
           <td>
@@ -334,12 +334,12 @@
         </tr>
         <tr>
           <td>
-            <a href=https://github.com/Fabio-Vicente/Pixels-Art>
+           <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
               <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=tokyonight&locale=pt-br />
-                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=transparent&locale=pt-br alt="Projeto Pixels Art" />
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=tokyonight&locale=pt-br />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=transparent&locale=pt-br alt="Projeto Lessons Learned" />
               </picture>
-              <h6>Vamos fazer desenhos com pixels?</h6>
+              <h6>Meu 1º projeto web 🙃</h6>
             </a>
           </td>
         </tr>
@@ -688,12 +688,12 @@
       <tbody align=center>
         <tr>
           <td>
-            <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
+            <a href=https://github.com/Fabio-Vicente/Pixels-Art>
               <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=tokyonight />
-                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=transparent alt="Lessons Learned Project" />
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=tokyonight />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=transparent alt="Pixels Art Project" />
               </picture>
-              <h6>My 1º web project 🙃</h6>
+              <h6>Let's make drawings with pixels?</h6>
             </a>
           </td>
           <td>
@@ -708,12 +708,12 @@
         </tr>
         <tr>
           <td>
-            <a href=https://github.com/Fabio-Vicente/Pixels-Art>
+            <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
               <picture>
-                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=tokyonight />
-                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=transparent alt="Pixels Art Project" />
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=tokyonight />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=transparent alt="Lessons Learned Project" />
               </picture>
-              <h6>Let's make drawings with pixels?</h6>
+              <h6>My 1º web project 🙃</h6>
             </a>
           </td>
         </tr>
