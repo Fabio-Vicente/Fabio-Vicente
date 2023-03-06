@@ -26,11 +26,9 @@ jobs:
           config_timezone: America/Bahia
           plugin_habits: yes
           plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
           plugin_habits_days: 30
           plugin_habits_from: 1000
           plugin_habits_facts: false
-          plugin_habits_languages_threshold: 0
       
       - name: Achievements
         uses: lowlighter/metrics@latest
