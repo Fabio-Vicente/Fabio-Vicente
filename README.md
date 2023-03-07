@@ -343,6 +343,17 @@
             </a>
           </td>
           <td>
+           <a href=https://github.com/Fabio-Vicente/Meme-Generator>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=meme-generator&theme=tokyonight&locale=pt-br />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=meme-generator&theme=transparent&locale=pt-br alt="Projeto Meme Generator" />
+              </picture>
+              <h6>Divirta-se criando o seu próprio meme  😂</h6>
+            </a>
+          </td>
+        </tr>
+        <tr>
+          <td>
             <a href=https://github.com/Fabio-Vicente/Playground-Functions>
               <picture>
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=tokyonight&locale=pt-br />
@@ -351,8 +362,6 @@
               <h6>Primeiras linhas de código em Javascript  🚀</h6>
             </a>
           </td>
-        </tr>
-        <tr>
           <td>
            <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
               <picture>
@@ -736,6 +745,17 @@
               <h6>Write a surprisingly letter  💌</h6>
             </a>
           </td>
+           <td>
+            <a href=https://github.com/Fabio-Vicente/Meme-Generator>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=meme-generator&theme=tokyonight />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=mistery-letter&theme=transparent alt="Meme Generator Project" />
+              </picture>
+              <h6>Have fun creating your own meme  😂</h6>
+            </a>
+          </td>
+        </tr>
+        <tr>
           <td>
             <a href=https://github.com/Fabio-Vicente/Playground-Functions>
               <picture>
@@ -745,8 +765,6 @@
               <h6>Firsts lines of code in Javascript  🚀</h6>
             </a>
           </td>
-        </tr>
-        <tr>
           <td>
             <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
               <picture>
