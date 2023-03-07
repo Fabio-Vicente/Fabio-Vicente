@@ -319,7 +319,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=tokyonight&locale=pt-br />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=transparent&locale=pt-br alt="Projeto Pixels Art" />
               </picture>
-              <h6>Vamos fazer desenhos com pixels?</h6>
+              <h6>Vamos fazer desenhos com pixels?  🖌️</h6>
             </a>
           </td>
           <td>
@@ -328,7 +328,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=to-do-list&theme=tokyonight&locale=pt-br />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=to-do-list&theme=transparent&locale=pt-br alt="Projeto To Do Lista" />
               </picture>
-              <h6>Uma lista de tarefas fácil de usar</h6>
+              <h6>Uma lista de tarefas fácil de usar  ✔️</h6>
             </a>
           </td>
         </tr>
@@ -339,7 +339,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=mistery-letter&theme=tokyonight&locale=pt-br />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=mistery-letter&theme=transparent&locale=pt-br alt="Projeto Mistery Letter" />
               </picture>
-              <h6>Escreva uma carta surpreendente</h6>
+              <h6>Escreva uma carta surpreendente  💌</h6>
             </a>
           </td>
           <td>
@@ -348,7 +348,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=tokyonight&locale=pt-br />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=transparent&locale=pt-br alt="Projeto Playground Functions" />
               </picture>
-              <h6>Primeiras linhas de código em Javascript 🚀</h6>
+              <h6>Primeiras linhas de código em Javascript  🚀</h6>
             </a>
           </td>
         </tr>
@@ -359,7 +359,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=tokyonight&locale=pt-br />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=transparent&locale=pt-br alt="Projeto Lessons Learned" />
               </picture>
-              <h6>Meu 1º projeto web 🙃</h6>
+              <h6>Meu 1º projeto web  🙃</h6>
             </a>
           </td>
         </tr>
@@ -713,7 +713,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=tokyonight />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=pixels-art&theme=transparent alt="Pixels Art Project" />
               </picture>
-              <h6>Let's make drawings with pixels?</h6>
+              <h6>Let's make drawings with pixels?  🖌️</h6>
             </a>
           </td>
           <td>
@@ -722,7 +722,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=to-do-list&theme=tokyonight />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=to-do-list&theme=transparent alt="To Do List Project" />
               </picture>
-              <h6>An intuitive to do list</h6>
+              <h6>An intuitive to do list  ✔️</h6>
             </a>
           </td>
         </tr>
@@ -733,7 +733,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=mistery-letter&theme=tokyonight />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=mistery-letter&theme=transparent alt="Mistery Letter Project" />
               </picture>
-              <h6>Write a surprisingly letter</h6>
+              <h6>Write a surprisingly letter  💌</h6>
             </a>
           </td>
           <td>
@@ -742,7 +742,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=tokyonight />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=transparent alt="Playground Functions Project" />
               </picture>
-              <h6>Firsts lines of code in Javascript 🚀</h6>
+              <h6>Firsts lines of code in Javascript  🚀</h6>
             </a>
           </td>
         </tr>
@@ -753,7 +753,7 @@
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=tokyonight />
                 <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=lessons-learned&theme=transparent alt="Lessons Learned Project" />
               </picture>
-              <h6>My 1º web project 🙃</h6>
+              <h6>My 1º web project  🙃</h6>
             </a>
           </td>
         </tr>
