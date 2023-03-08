@@ -354,6 +354,15 @@
         </tr>
         <tr>
           <td>
+           <a href=https://github.com/Fabio-Vicente/Color-Guess>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=color-guess&theme=tokyonight&locale=pt-br />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=color-guess&theme=transparent&locale=pt-br alt="Projeto Color Guess" />
+              </picture>
+              <h6>Você consegue advinhar a cor?  🎨</h6>
+            </a>
+          </td>
+          <td>
             <a href=https://github.com/Fabio-Vicente/Playground-Functions>
               <picture>
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=tokyonight&locale=pt-br />
@@ -362,6 +371,8 @@
               <h6>Primeiras linhas de código em Javascript  🚀</h6>
             </a>
           </td>
+        </tr>
+        <tr>
           <td>
            <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
               <picture>
@@ -757,6 +768,15 @@
         </tr>
         <tr>
           <td>
+            <a href=https://github.com/Fabio-Vicente/Color-Guess>
+              <picture>
+                <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=color-guess&theme=tokyonight />
+                <img src=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=color-guess&theme=transparent alt="Color Guess Project" />
+              </picture>
+              <h6>Can you guess the color?  🎨</h6>
+            </a>
+          </td>
+          <td>
             <a href=https://github.com/Fabio-Vicente/Playground-Functions>
               <picture>
                 <source media="(prefers-color-scheme: dark)" srcset=https://github-readme-stats.vercel.app/api/pin/?username=fabio-vicente&repo=playground-functions&theme=tokyonight />
@@ -765,6 +785,8 @@
               <h6>Firsts lines of code in Javascript  🚀</h6>
             </a>
           </td>
+        </tr>
+         <tr>
           <td>
             <a href=https://github.com/Fabio-Vicente/Lessons-Learned>
               <picture>
